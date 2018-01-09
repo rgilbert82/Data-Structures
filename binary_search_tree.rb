@@ -4,7 +4,7 @@ class BSTNode
   def initialize(data=nil)
     @left = nil
     @right = nil
-    @parent = parent
+    @parent = nil
     @data = data
   end
 
